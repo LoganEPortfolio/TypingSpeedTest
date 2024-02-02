@@ -2,6 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
+app_2.py
+DA_test.py
+DA_test2.py
+words.txt
 
 # C extensions
 *.so
